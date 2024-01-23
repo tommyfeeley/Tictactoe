@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TicTacToe\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ playGame()
+comment1.text=\r\n\ This\ method\ starts\ the\ TicTacToe\ game,\ and\ determines\ whether\ a\ certain\ player\ has\ won,\ or\ there\ is\ a\ tie.\r\n
+comment2.params=
+comment2.target=void\ playerMoveX()
+comment2.text=\r\n\ This\ method\ determines\ where\ the\ X\ goes\ for\ that\ turn,\ and\ if\ player\ X\ picks\ an\ invalid\ number\ it\ tells\ the\ user\ to\ pick\ a\ valid\ number\ between\ 0\ and\ 2.\r\n
+comment3.params=
+comment3.target=void\ playerMoveO()
+comment3.text=\r\n\ This\ method\ determines\ where\ the\ O\ goes\ for\ that\ turn,\ and\ if\ player\ O\ picks\ an\ invalid\ number\ it\ tells\ the\ user\ to\ pick\ a\ valid\ number\ between\ 0\ and\ 2.\r\n
+numComments=4

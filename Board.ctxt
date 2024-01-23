@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Board\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Board()
+comment2.params=
+comment2.target=void\ displayBoard()
+comment2.text=\r\n\ This\ method\ determines\ whether\ the\ coordinate\ selected\ needs\ a\ horizontal\ line,\ vertical\ line,\ or\ nothing\ to\ create\ the\ board.\r\n
+comment3.params=playerLetter\ row\ col
+comment3.target=void\ updateBoard(java.lang.String,\ int,\ int)
+comment4.params=r\ c
+comment4.target=boolean\ isAvailable(int,\ int)
+comment4.text=\r\n\ This\ method\ makes\ sure\ that\ the\ tile\ selected\ does\ not\ have\ a\ X\ or\ an\ O\ in\ it\ already.\r\n
+comment5.params=
+comment5.target=boolean\ isTie()
+comment5.text=\r\n\ This\ method\ makes\ sure\ that\ there\ are\ not\ any\ open\ tiles,\ and\ that\ no\ one\ has\ won\ already,\ and\ then\ checks\ for\ a\ tie.\r\n
+comment6.params=
+comment6.target=boolean\ hasWon()
+comment6.text=\r\n\ This\ method\ determines\ the\ vertical,\ horizontal,\ and\ diagonal\ win\ conditions\ for\ the\ TicTacToe\ game\r\n
+numComments=7
